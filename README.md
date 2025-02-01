@@ -40,7 +40,7 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 ### :keyboard: Activity: Your first branch
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
+1. Oen a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
 2. Navigate to the **< > Code** tab in the header menu of your repository.
 
    ![code-tab](/images/code-tab.png)
@@ -68,7 +68,7 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Ge help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
